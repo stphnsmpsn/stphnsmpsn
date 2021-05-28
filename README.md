@@ -18,7 +18,7 @@ Welcome to my GitHub!
   * I used to write mods for Counter Strike Source and wound up owning a few servers and playing competitively. This got me into creating websites (mostly Wordpress and bbPress) and playing with databases. I didn't realize I was 'programming' or that this could be a career. I was just having fun.
   * My first introduction to desktop programming as an advanced Computer Science course in Grade 12 where I achieved a 100% course average and won an award from DeltaWare for my achievement. 
 
-* In the years following, I found myself programming a lot as a hobby or to automate repetetive tasks at work (I created a tool in VB.net *gross* to automate the setup of new computers and other less notable things) 
+* In the years following, I found myself programming a lot as a hobby or to automate repetetive tasks at work. As an example, when working as a technical services manager for a large retailer, I created a tool in VB.net to automate the setup of new computers. The program worked great and wound up being used in several stores across Canada. 
 
 * I eventually returned to school to formalize my education and grow my professional network. There, I earned my Bachelor of Electrical and Computer Engineering but, more importantly, met many friends and industry contacts.  
 
