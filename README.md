@@ -14,7 +14,7 @@ Welcome to my GitHub!
   
 ## ⚡ Fun facts and how I got into programming:
 
-* I started programming when I was around 16 years old (over a decade ago... oof!)
+* I started programming when I was around 16 years old (almost a decade and a half ago... oof!)
   * I used to write mods for Counter Strike Source and wound up owning a few servers and playing competitively. This got me into creating websites (mostly Wordpress and bbPress) and playing with databases. I didn't realize I was 'programming' or that this could be a career. I was just having fun.
   * My first introduction to desktop programming was an advanced Computer Science course in Grade 12 where I achieved a 100% course average and won an award from DeltaWare for my achievement. 
 
