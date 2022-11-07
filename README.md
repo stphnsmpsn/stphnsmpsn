@@ -2,19 +2,31 @@
 
 Welcome to my GitHub! 
 
-## 📖 I’m currently learning:
+## 🔭 I am currently working on:
 
 * Rust
 
-  It's been a great adventure so far and I must say that completing all of the challenges in the Rustlings project and taking the time to read the official Rust book have really helped jump start my learning. Coming from C/C++, learning Rust has been relatively straight forward. I love the trait system and while the borrowing rules can be a pain, they do help me feel very confident about the code I write. I hope to soon write my first production service in Rust. 
+  I first became interested in Rust in 2018 and have been lucky enough to have been using it as my primary programming language since July 2021. I love the trait system / borrow checker, the ecosystem, and the community. Rust makes it easy to 'Get Shit Done'™️ and ship with confidence. 
   
 * Distributed Systems
 
-  I'm leading a huge project at work to redesign our cloud infrastructure and am having a ton of fun with it! Learning to design highly available, fault tolerant, multi-tenant web services is new to me but was a challenge I was very eager to take on and is shaping up nicely. 
-  
+  I write highly available, fault tolerant, and performant web-scale applications (in Rust). 
+    
+## ⚡ Other Tools and Technologies
+
+In addition to what is mentioned here, I am also proficient in several other programming languages (C, C++, Java, Python, PHP), tools (Docker, Kubernetes, Kafka, MQTT, etc...), and data stores (MariaDB, PostgreSQL, SQLite, Redis, RocksDB, etc...) just to name a few 😄
+
+## 🤓 Hobbies 
+
+* Reading
+* Home Labbing
+* Secure, No-Cloud Home Automation 
+* Guitar
+* Golf
+
 ## ⚡ Fun facts and how I got into programming:
 
-* I started programming when I was around 16 years old (almost a decade and a half ago... oof!)
+* I started programming when I was around 16 years old (a decade and a half ago... oof!)
   * I used to write mods for Counter Strike Source and wound up owning a few servers and playing competitively. This got me into creating websites (mostly Wordpress and bbPress) and playing with databases. I didn't realize I was 'programming' or that this could be a career. I was just having fun.
   * My first introduction to desktop programming was an advanced Computer Science course in Grade 12 where I achieved a 100% course average and won an award from DeltaWare for my achievement. 
 
